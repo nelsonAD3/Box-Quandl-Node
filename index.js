@@ -8,7 +8,7 @@ var BoxSDK = require('box-node-sdk');
 // Initialize the SDK with your app credentials
 var sdk = new BoxSDK({
     clientID: '7x3kazshqxgq7wbj1vw7e39lz9nxpn52',
-    clientSecret: 'HZ8LNoYXcJ2QzLdFUUUsvnTu2GKQvDMU'
+    clientSecret: 'xxxxx'
 });
 
 var client = BoxSDK.getBasicClient('OWrqI60ybDX2ciGNQqoNJ7LRNsmYusCq');
